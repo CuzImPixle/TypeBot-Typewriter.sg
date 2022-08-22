@@ -14,9 +14,7 @@ A bot for Typewriter.sg
 
 ## Installation:
 Chrome needs to be installed
-##### .exe
-1.  Download the .exe file and execute it.
-    (If it doesnt work try using the .py method)
+
 ##### .py (python required)
 1.  Install requirements.txt using the command:
     ```
